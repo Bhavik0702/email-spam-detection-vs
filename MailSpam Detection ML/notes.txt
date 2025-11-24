@@ -1,0 +1,5 @@
+Remember to fix the bug in line 42.
+Meeting with team at 3 PM.
+Need to update the requirements.txt file.
+Check if the API key is valid.
+Buy milk.
